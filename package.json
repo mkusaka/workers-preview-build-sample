@@ -1,0 +1,8 @@
+{
+  "name": "workers-preview-build-sample",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r dev",
+    "deploy": "pnpm -r deploy"
+  }
+} 
